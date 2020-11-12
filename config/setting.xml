@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+	<loadMap>0</loadMap>
+	<testStereoMatch>0</testStereoMatch>
+	<loadMapPath>"/home/mrh/Record/dsoMap/map01_201812131025"</loadMapPath>
+	<saveMapPath>"/home/mrh/Record/dsoMap/map01"</saveMapPath>
+	<vocPath>"/home/mrh/catkin_ws/src/cgdso/voc/cgdsoVoc.DBOW3"</vocPath>
+</opencv_storage>
+

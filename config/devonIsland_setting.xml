@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opencv_storage>
+	<useStereo>1</useStereo>
+	<baseline>0.24</baseline><!--zed:0.12,euroc:0.11,kitii:0.537-->
+        <max_speed>20</max_speed><!--kitti:30,euroc:10-->
+        <panoramaTracker>1</panoramaTracker>
+	<acc_n>0.08</acc_n>
+	<acc_w>0.00004</acc_w>
+	<gyr_n>0.004</gyr_n>
+	<gyr_w>2e-6</gyr_w>
+	<g_norm>9.81007</g_norm>
+<!--zed:"/home/mrh/catkin_ws/src/cgdso/config/zed_calib.xml",euroc:"/home/mrh/catkin_ws/src/cgdso/config/euroc_calib.xml,kitti:"/home/mrh/catkin_ws/src/cgdso/config/kitti_calib.xml"-->
+	<cameraConfigPath>"/home/mrh/catkin_ws/src/cgdso/config/devonIsland_calib.xml"</cameraConfigPath>
+</opencv_storage>
+
